@@ -1,0 +1,24 @@
+body{background: #f0f0f0;}
+nav.navbar{background: #40403f;}
+a.navbar-brand{padding: 5px;}
+#navbar{float: right;padding-top: 15px;}
+#navbar a{font-size: 14px;color: #e8e8e8;margin-right: 15px;padding: 5px;-webkit-transition: all 1s ease-in-out;transition: all 1s ease-in-out;}
+#navbar a:last-child{margin-right: 0px;}
+#navbar a:hover{text-decoration: none;border-bottom: 1px solid #e8e8e8;}
+.jumbotron,
+.our-goal{background:#e8e8e8;margin-bottom: 0;}
+.jumbotron .container.top-section{margin-top: 30px;min-height: 500px;background: url(../images/ping_1.jpg) bottom left no-repeat, url(../images/ping_2.jpg) bottom right no-repeat;background-size: contain;}
+.jumbotron .container img{margin-top: 100px;}
+.jumbotron .container img,
+.certificates .container img{float: none;margin-left: auto;margin-right: auto;}
+.section-1{padding-bottom: 30px;}
+.section-1 p img{float: none;margin-right: auto;margin-left: auto}
+.section-2{padding-bottom: 30px;}
+.section-title{margin-bottom: 15px;}
+.section-title h2{font-size: 34px;font-weight: bold;}
+.section-title h2:first-letter{color: #cf222b;}
+.certificates .container img{margin-bottom: 30px;}
+footer{padding-top: 30px;padding-bottom: 30px;background: #40403f;color: #e8e8e8;text-align: center;}
+footer .container i{margin-right: 15px;}
+footer .container a{color: #e8e8e8;}
+footer .container a:hover{color: #e8e8e8;}
